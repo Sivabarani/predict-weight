@@ -1,7 +1,7 @@
 # predict-weight-dataset
 This dataset contains details about 100 participants' health information
 
-**Understanding Supervised Learning** Supervised learning involves predicting an outcome based on labeled data. Initially, I considered this dataset for supervised learning (Classification) applications, particularly for analyzing participants' weight based on health information.
+**Understanding Supervised Learning** Supervised learning involves predicting an outcome based on labeled data. Initially, I considered this dataset for supervised learning (Regression) applications, particularly for analyzing participants' weight based on health information.
 
 **Dataset Description**
 1. Participant ID: Unique ID of the participant 
