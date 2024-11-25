@@ -49,11 +49,11 @@ A score (1-10) indicating the participant’s perceived stress level. High stres
 14. Final Weight (lbs):
 The participant's weight at the end of the study or data collection period. This is the target variable we aim to predict, and it may be influenced by all other features in the dataset.
 
-Objective:
+**Objective:**
 The goal of this analysis is to predict the final weight of participants. While the "Final Weight (lbs)" column is the target variable, the dataset also provides an opportunity to explore the relationships between other health-related features (independent variables) and weight changes.
 
-Understanding Data Relationships
-Dependent vs. Independent Variables:
+**Understanding Data Relationships
+Dependent vs. Independent Variables:**
 
-Dependent Variable: The "Final Weight (lbs)" column is the outcome we are trying to predict.
-Independent Variables: All other columns are considered independent variables that may influence the final weight, including Participant ID, Age, Gender, Current Weight, BMR, Daily Calories Consumed, Caloric Surplus/Deficit, Weight Change, Duration, Physical Activity Level, Macronutrient Breakdown, Sleep Quality, and Stress Level.
+_Dependent Variable:_ The "Final Weight (lbs)" column is the outcome we are trying to predict.
+_Independent Variables:_ All other columns are considered independent variables that may influence the final weight, including Participant ID, Age, Gender, Current Weight, BMR, Daily Calories Consumed, Caloric Surplus/Deficit, Weight Change, Duration, Physical Activity Level, Macronutrient Breakdown, Sleep Quality, and Stress Level.
